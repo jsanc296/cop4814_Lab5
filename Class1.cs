@@ -13,6 +13,7 @@ namespace L2
         public string Team2 { get; set; }
         public int Team1Score { get; set; }
         public int Team2Score { get; set; }
+        public int Team3Score {get; set;}
 
         public Game() { }
 
