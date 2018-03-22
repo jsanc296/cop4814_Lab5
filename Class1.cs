@@ -12,7 +12,7 @@ namespace L2
         public string Team1 { get; set; }
         public string Team2 { get; set; }
         public int Team1Score { get; set; }
-        
+
 
         public Game() { }
 
