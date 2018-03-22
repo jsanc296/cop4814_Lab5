@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//added in step 7
 namespace L2
 {
     public class Game
